@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+vacancies.json
+skills.json
+top_skills.json
+.venv/
