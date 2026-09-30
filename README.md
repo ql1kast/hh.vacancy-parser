@@ -44,3 +44,6 @@
 - re
 - json
 - collections.Counter
+  
+## График топ-15 навыков
+![Топ-15 навыков](top_skills.png)
